@@ -1,0 +1,2 @@
+# Supervised-and-Unsupervised-Machine-Learning-with-Python
+Performed supervised (Linear Regression with K-Fold Cross Validation) and unsupervised (Cluster Analysis) machine learning techniques on 13,272 reviews for Patio, Lawn, and Garden products from amazon.com. The raw review data is preprocessed to remove any stray html tags, find and replace any contractions, and tokenized before creating the Word2Vec model, which is used as  input for both ML techniques. The dataset can be found at https://jmcauley.ucsd.edu/data/amazon/ () in the K-cores column.
